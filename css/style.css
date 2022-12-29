@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  margin-top: 250px;
+  background: #49a16c;
+}
+
+.calc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calc .plus {
+  font-size: 30px;
+  background-color: chocolate;
+}
+.calc .minus {
+  font-size: 30px;
+  background-color: cornflowerblue;
+}
+.calc .times {
+  font-size: 30px;
+  background-color: rgba(24, 17, 252, 0.611);
+}
+.calc .degree {
+  font-size: 30px;
+  background-color: rgb(22, 217, 155);
+}
+
+.calc .ravno {
+  font-size: 30px;
+  background-color: rgb(251, 37, 90);
+}
+
+p {
+  margin-left: 15px;
+  font-size: 30px;
+  border: 2px solid black;
+  background: linear-gradient(#6e4aff, #49a16c);
+}
+
+input {
+  color: antiquewhite;
+  height: 50px;
+  border: 2px solid black;
+  background: linear-gradient(#6e4aff, #49a16c);
+}
