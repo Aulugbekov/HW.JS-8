@@ -1,4 +1,4 @@
-var nm; //выбранный оператор
+var nm;
 
 function ravno() {
   var result;
